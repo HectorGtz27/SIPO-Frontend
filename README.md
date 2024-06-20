@@ -1,5 +1,3 @@
-### README
-
 # Sistema Integrado de Planificación Operativa (SIPO)
 
 ## Overview
@@ -35,7 +33,7 @@ SIPO provides an innovative platform that transforms the organization and admini
 1. **Frontend**: React with Zustand for state management, Tailwind CSS for styling, TypeScript for type safety.
 2. **Backend**: Node.js with ExpressJS and Sequelize ORM.
 3. **Database**: PostgreSQL.
-4. **Tools**: Postman for API testing, Figma for design.
+4. **Tools**: Postman for API testing, Figma for design, Vercel for deployment.
 
 ## User Profiles
 
@@ -87,7 +85,3 @@ SIPO provides an innovative platform that transforms the organization and admini
 2. **Manage Clients and Projects**: Create, edit, and delete clients and projects as needed.
 3. **Assign Candidates**: Assign candidates to job positions and update their status.
 4. **Generate Reports**: Use the dashboard to generate reports and analyze data.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
